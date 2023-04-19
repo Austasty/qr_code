@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 100px;
+    background-color: rgb(230, 245, 239);
+    overflow: hidden;
+}
+.container{
+    height: 370px;
+    width: 20%;
+    background-color: white;
+    border-radius: 10px;
+}
+.box1{
+    height: 340px;
+    width: 90%;
+    margin: 10px;
+}
+
+.box {
+    height: 50%;
+    width: 100%;
+    background: url(images/image-qr-code.png);
+    margin-bottom: 10px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{
+    color: black;
+    font-family: sans-serif;
+}
+
+h4 {
+color: rgba(0, 0, 0, .3);
+}
